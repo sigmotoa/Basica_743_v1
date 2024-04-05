@@ -1,0 +1,15 @@
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/bin/Debug/net7.0/IntroC_Sharp
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/bin/Debug/net7.0/IntroC_Sharp.deps.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/bin/Debug/net7.0/IntroC_Sharp.runtimeconfig.json
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/bin/Debug/net7.0/IntroC_Sharp.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/bin/Debug/net7.0/IntroC_Sharp.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.csproj.AssemblyReference.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.AssemblyInfoInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.AssemblyInfo.cs
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.csproj.CoreCompileInputs.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/refint/IntroC_Sharp.dll
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.pdb
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/IntroC_Sharp.genruntimeconfig.cache
+/Users/sigmotoa/Documents/UD/2024_1/ridercodes/IntroC_Sharp/IntroC_Sharp/obj/Debug/net7.0/ref/IntroC_Sharp.dll
