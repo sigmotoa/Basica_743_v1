@@ -15,6 +15,15 @@ int age = Convert.ToInt16(Console.ReadLine());
 
 Console.WriteLine($"You have born in {2024-age}");
 
+Console.WriteLine($"{name} por favor ingrese la nota del corte 1");
+decimal nota_1 = Convert.ToDecimal(Console.ReadLine());
+Console.WriteLine($"{name} por favor ingrese la nota del corte 2");
+int nota_2 = Convert.ToInt16(Console.ReadLine());
+Console.WriteLine($"{name} por favor ingrese la nota del corte 3");
+int nota_3 = Convert.ToInt16(Console.ReadLine());
+
+Console.WriteLine($"{name} su promedio es: {Convert.ToDecimal(nota_1+nota_2+nota_3)/3}");
+
 /*
 Console.WriteLine(name.ToUpper());
 Console.WriteLine(name.ToLower());
