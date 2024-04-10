@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-//Muestra el texto en pantalla
+/*//Muestra el texto en pantalla
 Console.WriteLine("Hello. Please type your name");
 
 //Crea una variable llamada name y la llena con el texto capturado del teclado por la consola
@@ -30,4 +30,22 @@ Console.WriteLine(name.ToLower());
 
 name = name.ToUpper();
 
-Console.WriteLine(name);*/
+Console.WriteLine(name);#1#*/
+
+//Abril 10- If
+
+Console.WriteLine("Ingrese su año de nacimiento");
+int year = Convert.ToInt32(Console.ReadLine());
+
+int edad = 2024 - year;
+
+if (edad >= 18)
+{
+    Console.WriteLine("Bienvenido al bar");
+}
+else
+{
+    
+    Console.WriteLine("Chao bb");
+    Console.WriteLine($"Vuelva en {18 - edad} años");
+}
