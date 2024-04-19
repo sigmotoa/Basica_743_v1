@@ -34,6 +34,7 @@ Console.WriteLine(name);#1#*/
 
 //Abril 10- If
 
+/*
 Console.WriteLine("Ingrese su año de nacimiento");
 int year = Convert.ToInt32(Console.ReadLine());
 
@@ -45,7 +46,24 @@ if (edad >= 18)
 }
 else
 {
-    
+
     Console.WriteLine("Chao bb");
     Console.WriteLine($"Vuelva en {18 - edad} años");
+}*/
+
+
+int[] notas = new int[5];
+string[] estudiantes = new string[] { "Ivan", "Galvis", "Motoa" };
+int[] promedio = new int[estudiantes.Length];
+
+for (int i = 0; i < estudiantes.Length; i++)
+{
+    Console.WriteLine($"{estudiantes[i]} por favor ingresar su calificacion");
+    for (int j = 0; j < notas.Length; j++)
+    {
+        notas[j] = Convert.ToInt16(Console.ReadLine());
+        promedio[i] = promedio[i] + notas[j];
+    }
 }
+
+
